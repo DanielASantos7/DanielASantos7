@@ -2,7 +2,7 @@
 
 Sou estudante de Desenvolvimento de Sistemas no **SENAI-SP (São Bernardo do Campo)** e Competidor da **SPSkills**, modalidade **Soluções de Software para Negócios (#09)**.
 
-Minha base é **Fullstack com ênfase em Backend**. Gosto de lógica complexa, arquitetura limpa e de entender como as coisas funcionam por baixo do capô.
+Minha base é **Fullstack**. Gosto de lógica complexa, arquitetura e de entender como as coisas funcionam por trás da tela, ou seja, eu gosto bastante da parte do backend rs.
 
 ---
 
@@ -40,7 +40,7 @@ Atualmente, minha rotina é dedicada ao **Treinamento Olímpico (SPSkills)** e a
 ### 💼 Objetivo Profissional
 
 No momento, estou **100% focado na preparação técnica para a SPSkills**, buscando a excelência na competição.
-Estou aberto a **conexões e networking** com profissionais e empresas da região que valorizem talentos de alta performance para oportunidades futuras.
+Estou aberto a **networking** com profissionais e empresas da região que valorizem talentos de alta performance para oportunidades futuras.
 
 ---
 
