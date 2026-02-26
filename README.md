@@ -11,7 +11,6 @@ Minha base é **Fullstack**. Gosto de lógica complexa, arquitetura e de entende
 Atualmente, minha rotina é dedicada ao **Treinamento Olímpico (SPSkills)** e ao ensino médio (SESI/SENAI).
 
 * **Stack Principal (Projetos Atuais):** Desenvolvimento ágil com ecossistema JavaScript.
-* **Foco da Competição (Estudando):** Migrando para arquitetura corporativa com .NET, Mobile nativo e BI.
 
 ---
 
