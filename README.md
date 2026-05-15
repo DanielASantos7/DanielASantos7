@@ -2,7 +2,7 @@
 
 Sou estudante de Desenvolvimento de Sistemas no **SENAI-SP (São Bernardo do Campo)** e Competidor da **SPSkills**, modalidade **Soluções de Software para Negócios (#09)**.
 
-Minha base é **Fullstack**. Gosto de lógica complexa, arquitetura e de entender como as coisas funcionam por trás da tela, ou seja, eu gosto bastante da parte do backend rs.
+Minha base é **Fullstack**. Gosto de lógica, arquitetura e de entender como as coisas funcionam por trás da tela.
 
 ---
 
