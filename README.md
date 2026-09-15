@@ -47,7 +47,7 @@ Atualmente, minha rotina é dedicada ao **Treinamento Olímpico (SPSkills)** e a
 
 ### 📊 Estatísticas & Linguagens Dominantes
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielASantos7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="150" alt="Stats Graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielASantos7&layout=compact&theme=tokyonight&hide=html,css&langs_count=6" height="150" alt="Languages Graph" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DanielASantos7&show_icons=true&theme=dark&hide_border=true" alt="Estatísticas do GitHub" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielASantos7&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Linguagens mais usadas" width="47%" />
+</div>
