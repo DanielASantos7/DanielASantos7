@@ -41,3 +41,13 @@ Atualmente, minha rotina é dedicada ao **Treinamento Olímpico (SPSkills)** e a
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-andrade-santos-13691034a)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:d7.santos2008@gmail.com)
+
+
+---
+
+### 📊 Estatísticas & Linguagens Dominantes
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=DanielASantos7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="150" alt="Stats Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielASantos7&layout=compact&theme=tokyonight&hide=html,css&langs_count=6" height="150" alt="Languages Graph" />
+</p>
