@@ -1,11 +1,11 @@
-### Olá! Sou o Daniel Andrade Santos 👋
+### Olá! Sou o Daniel Andrade Santos
 
 Sou estudante de Desenvolvimento de Sistemas no **SENAI-SP (São Bernardo do Campo)** e Competidor da **SPSkills**, modalidade **Desenvolvimento de Aplicativos de Software (#09)**.
 
 Minha base é **Full-Stack**.
 ---
 
-### 🚀 O Que Eu Faço
+### O Que Eu Faço
 
 Atualmente, minha rotina é dedicada ao **Treinamento Olímpico (SPSkills)** e ao ensino médio (SESI/SENAI). Desenvolvo soluções de alto desempenho, dividindo meu foco entre:
 
@@ -37,7 +37,7 @@ Atualmente, minha rotina é dedicada ao **Treinamento Olímpico (SPSkills)** e a
 
 ---
 
-### 📫 Contato
+### Contato
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-andrade-santos-13691034a)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:d7.santos2008@gmail.com)
