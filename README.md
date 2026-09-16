@@ -51,10 +51,10 @@ Atualmente divido minha rotina entre a formação técnica no SESI/SENAI e o tre
 
 ---
 
-### 🏛️ Arquitetura, Infraestrutura & Estudos
+### Arquitetura, Infraestrutura & Estudos
 
-- 🧪 **Laboratório Prático (2 a 3 anos):** Projeto pessoal aos finais de semana para testar novos padrões, experimentar tecnologias e extrair aprendizado contínuo.
-- 🌐 **Interesses em Arquitetura & Infraestrutura:**
+- **Laboratório Prático (2 a 3 anos):** Projeto pessoal aos finais de semana para testar novos padrões, experimentar tecnologias e extrair aprendizado contínuo.
+- **Interesses em Arquitetura & Infraestrutura:**
   - **Sistemas Distribuição & Servidores:** Estudos sobre como o software se comporta no ambiente de hospedagem, topologia e comunicação entre serviços.
   - **Atributos de Qualidade:** Foco em resiliência, manutenibilidade e escalabilidade do código.
   - **CI/CD & Automação:** Workflows automatizados utilizando **GitHub Actions**.
