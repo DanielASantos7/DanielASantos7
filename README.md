@@ -14,7 +14,7 @@ Atualmente, minha rotina é dedicada ao **Treinamento Olímpico (SPSkills)** e a
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 **Backend**
 <br>
